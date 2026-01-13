@@ -48,7 +48,6 @@ Return behavior was concentrated among a small subset of customers
 Country-level RFM provided more accurate and fair customer comparisons
 Certain products consistently generated the highest revenue per customer
 
-1️⃣ Grow High-Value Customers (Champions)
 
 Who they are
 Buy recently

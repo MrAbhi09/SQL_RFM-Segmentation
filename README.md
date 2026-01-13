@@ -49,9 +49,5 @@ Country-level RFM provided more accurate and fair customer comparisons
 Certain products consistently generated the highest revenue per customer
 
 
-Who they are
-Buy recently
-Buy frequently
-Spend the most
-Low return behavior
+Who they are, Buy recently, Buy frequently, Spend the most, Low return behavior
 
